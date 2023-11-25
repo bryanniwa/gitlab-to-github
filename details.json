@@ -1,0 +1,10 @@
+{
+  "github": {
+    "token": "",
+    "url": "https://github.sfu.ca/api/graphql"
+  },
+  "gitlab": {
+    "token": "",
+    "url": "https://csil-git1.cs.surrey.sfu.ca/api/graphql"
+  }
+}
